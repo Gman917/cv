@@ -1,0 +1,25 @@
+body {
+  background-color: #f2edd7;
+}
+
+h1 {
+  color: #e48257;
+  font-family: Monaco;
+}
+
+h3 {
+  color: #e48257;
+  font-family: Monaco;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  border-radius: 25px;
+}
